@@ -1,0 +1,4 @@
+html, body, #root { height: 100%; margin: 0; font-family: system-ui, Arial, sans-serif; }
+body { background: #0d1117; color: #e6edf3; }
+* { box-sizing: border-box; }
+code { font-family: ui-monospace, Menlo, monospace; }
